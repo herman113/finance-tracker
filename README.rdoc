@@ -1,0 +1,9 @@
+== README
+
+I will learn how to use:
+
+devise
+authentication
+Ajax
+
+while making a finance tracker application
